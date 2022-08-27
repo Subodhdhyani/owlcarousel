@@ -1,0 +1,24 @@
+First add two file inside js folder(custom folder) from owlcarousel downlaoded folder
+
+1-owl carousel > dist > owl.carousel.min or owl carousel file 
+2-owl carousel > docs > assets > vendors > jquery.min 
+
+
+Second add two file inside css folder(custom folder) from owlcarousel downloaded folder
+1-owl carousel > dist > asset > owl carousel.css
+2-owl carousel > dist > asset > owl owl.theme.green.css
+
+
+Third add bootstrap for responsive(optional)
+
+
+
+Fourth add html sample from owl carousel website >demo>basic(optional add your own html)
+
+
+
+Fifth add code inside jquery from owl website >demo>basic>setup(inside this we can add and remove different field see
+from docs) > inside jquery we add different field from docs>option (choose a/c to requirement)
+
+
+Sixth now add css to html tag class item(optional)
